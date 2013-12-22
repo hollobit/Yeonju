@@ -7,4 +7,4 @@ OWS
 
 Useful link
 -
-http://220.67.124.64/Requirement_and_Usecase_of_OWS.html
+http://yeonjulim.github.io/Yeonju/Requirement_and_Usecase_of_OWS.html
